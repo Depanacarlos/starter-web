@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Carlos Peña carlos@mail.com
 
 # THANKS
 
