@@ -9,3 +9,7 @@ this is a purpose
 
 ## How To Contribute
 Sample website with plenty of files for demos
+
+### Copyright
+
+Git 2022
