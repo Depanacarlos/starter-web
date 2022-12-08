@@ -9,6 +9,7 @@ this is a purpose
 
 ## How To Contribute
 Sample website with plenty of files for demos
+please fork this repository and this issues pull request for review.
 
 ### Copyright
 
